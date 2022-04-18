@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rsantoso1001@gmail.com
+	name = Riza Santoso
